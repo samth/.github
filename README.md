@@ -1,3 +1,3 @@
 # .github
 
-I'm just a guy, you know.
+I'm just a *cool* guy, you know.
